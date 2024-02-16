@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 Computer Science student exploring the digital universe<br>Front-end Developer in the making 🌐 <br>Forever learning new technologies 📚 <br>Quick learner 🧠<br> Passionate problem solver 💡<br> Turning challenges into opportunities ⚙️<br>Coding with creativity and dedication 💻<br> Building the web, one line of code at a time 🛠️<br>#CodeIsArt #WebDev #TechEnthusiast 🚀
 
 
